@@ -19,3 +19,4 @@ a-  o salário final de cada empregado;
 b-  o lucro (líquido) da loja.
 Quais os cálculos necessários que devem ser feitos?
 
+resolução -> [solução](./Program.cs)
