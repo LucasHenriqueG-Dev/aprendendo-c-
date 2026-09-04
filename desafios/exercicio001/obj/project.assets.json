@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\projetos em c#.csproj",
-      "projectName": "projetos em c#",
-      "projectPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\projetos em c#.csproj",
+      "projectUniqueName": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio001\\exercicio001.csproj",
+      "projectName": "exercicio001",
+      "projectPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio001\\exercicio001.csproj",
       "packagesPath": "C:\\Users\\luqui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\obj\\",
+      "outputPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luqui\\AppData\\Roaming\\NuGet\\NuGet.Config"
