@@ -1,5 +1,5 @@
 # aprendendo-c-
-# Exercícios de C# - ADS
+# Exercícios de C# 
 
 Repositório com os exercícios feitos durante o curso e exercicios que peguei da internet.
 
