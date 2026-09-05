@@ -32,7 +32,7 @@ if(total >0){
 }
 else if(total == 0)
 {
-    Console.WriteLine("a loja não teve lucro nem prejuizo");
+    Console.WriteLine("a loja não teve lucro nem prejuizo ");
 }
 else
 {
