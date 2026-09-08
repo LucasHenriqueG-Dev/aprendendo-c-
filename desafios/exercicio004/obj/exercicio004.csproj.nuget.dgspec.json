@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio002\\exercicio002.csproj": {}
+    "c:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio002\\exercicio002.csproj": {
+    "c:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio002\\exercicio002.csproj",
-        "projectName": "exercicio002",
-        "projectPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio002\\exercicio002.csproj",
+        "projectUniqueName": "c:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj",
+        "projectName": "exercicio004",
+        "projectPath": "c:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj",
         "packagesPath": "C:\\Users\\luqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio002\\obj\\",
+        "outputPath": "c:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luqui\\AppData\\Roaming\\NuGet\\NuGet.Config"
