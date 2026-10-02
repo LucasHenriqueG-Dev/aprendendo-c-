@@ -7,3 +7,5 @@ Contar quantos valores são menores que X;
 Contar quantos valores são iguais a X;
 Percorrer o vetor desde o primeiro elemento, realizando a soma dos valores, até que a soma seja maior ou igual a X;
 Informar quantas posições do vetor foram necessárias para atingir o valor X.
+
+resolução -> [solução](./Program.cs)
