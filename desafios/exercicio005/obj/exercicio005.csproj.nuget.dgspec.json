@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj",
         "projectName": "exercicio005",
-        "projectPath": "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio005\\exercicio005.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio005\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio005\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
