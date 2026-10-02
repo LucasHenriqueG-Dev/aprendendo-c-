@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\luqui\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj",
       "projectName": "exercicio004",
-      "projectPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj",
-      "packagesPath": "C:\\Users\\luqui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luqui\\Documents\\meus projetos\\projetos em c#\\aprendendo-c-\\desafios\\exercicio004\\obj\\",
+      "projectPath": "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio004\\exercicio004.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\meus projetos\\aprendendo-c-\\desafios\\exercicio004\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\luqui\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
