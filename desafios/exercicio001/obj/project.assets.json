@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio001\\exercicio001.csproj",
+      "projectUniqueName": "C:\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio001\\exercicio001.csproj",
       "projectName": "exercicio001",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio001\\exercicio001.csproj",
+      "projectPath": "C:\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio001\\exercicio001.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio001\\obj\\",
+      "outputPath": "C:\\MeusProjetos\\aprendendoC\\aprendendo-c-\\desafios\\exercicio001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "projetos em c#/1.0.0": {
+      "exercicio006/1.0.0": {
         "runtime": {
-          "projetos em c#.dll": {}
+          "exercicio006.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "projetos em c#/1.0.0": {
+    "exercicio006/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
