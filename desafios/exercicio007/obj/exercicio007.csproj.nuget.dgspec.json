@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio003\\exercicio003.csproj": {}
+    "c:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio007\\exercicio007.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio003\\exercicio003.csproj": {
+    "c:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio007\\exercicio007.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio003\\exercicio003.csproj",
-        "projectName": "exercicio003",
-        "projectPath": "C:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio003\\exercicio003.csproj",
+        "projectUniqueName": "c:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio007\\exercicio007.csproj",
+        "projectName": "exercicio007",
+        "projectPath": "c:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio007\\exercicio007.csproj",
         "packagesPath": "C:\\Users\\1619984\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio003\\obj\\",
+        "outputPath": "c:\\Users\\1619984\\Documents\\meus projetos\\attsalison\\aprendendo-c-\\desafios\\exercicio007\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
