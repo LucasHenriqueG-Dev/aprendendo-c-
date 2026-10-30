@@ -32,9 +32,16 @@ while(opc != 0)
     }
     else if (opc == 3)
     {
-        double div = num1/num2;
-        System.Console.WriteLine("a divisão dos dois numero é igula a: "+ div);
-        
+        if (num2 == 0)
+        {
+            System.Console.WriteLine("não é possivel dividir por zero");
+        }
+        else
+        {
+            double div = num1/num2;
+            System.Console.WriteLine("a divisão dos dois numero é igula a: "+ div);
+        }
+
 
     }
     else if (opc== 4)
