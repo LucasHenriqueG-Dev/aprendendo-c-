@@ -1,24 +1,42 @@
-You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+# Exercício 006 - Two Sum (LeetCode #1)
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+Assunto: vetores e laços aninhados  
+Status: concluído
 
-You can return the answer in any order.
+## Enunciado
 
- 
+Dado um vetor de inteiros `nums` e um inteiro `target`, retorne os índices dos dois números cuja soma seja igual a `target`.
 
-Example 1:
+Considere que cada entrada tem exatamente uma solução e que não é possível usar o mesmo elemento duas vezes. A resposta pode ser retornada em qualquer ordem.
 
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
-Example 2:
+| Entrada | Saída | Explicação |
+|---|---|---|
+| `nums = [2,7,11,15]`, `target = 9` | `[0,1]` | `nums[0] + nums[1] == 9` |
+| `nums = [3,2,4]`, `target = 6` | `[1,2]` | `nums[1] + nums[2] == 6` |
+| `nums = [3,3]`, `target = 6` | `[0,1]` | `nums[0] + nums[1] == 6` |
 
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
-Example 3:
+Restrições: `2 <= nums.length <= 10⁴`, `-10⁹ <= nums[i] <= 10⁹`, `-10⁹ <= target <= 10⁹` e existe apenas uma resposta válida.
 
-Input: nums = [3,3], target = 6
-Output: [0,1]
- 
+Desafio extra: dá para fazer um algoritmo com complexidade menor que O(n²)?
 
-resolução -> [solução](./Program.cs)
+Tirado do [LeetCode](https://leetcode.com/problems/two-sum/)
+
+## O que pratiquei
+
+- Laços `for` aninhados para comparar pares de elementos
+- Começar o segundo laço em `i + 1` para não repetir pares nem usar o mesmo elemento duas vezes
+
+## Como rodar
+
+```bash
+cd desafios/exercicio006
+dotnet run
+```
+
+## Solução
+
+[Program.cs](./Program.cs)
+
+---
+
+[voltar para o início](../../README.md)

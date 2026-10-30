@@ -1,0 +1,8 @@
+# Arquivos gerados pelo build do .NET
+bin/
+obj/
+
+# Editores
+.vs/
+.vscode/
+*.user
